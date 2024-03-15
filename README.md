@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyansh364
 - 👀 I’m interested in making my word easy
 - 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on some projects based on Selenium and Java FSD
+- I’m looking to collaborate on some projects based on Selenium and Java FSD
 - 📫 How to reach me ...+91 940544701
 
 <!---
