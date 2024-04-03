@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Priyansh364
+- 👋 Hi, I’m a MERN stack Developer
 - 👀 I’m interested in making my word easy
-- 🌱 I’m currently learning ... Web Development
-- I’m looking to collaborate on some projects based on Selenium and Java FSD
+- 🌱 I’m currently working my skills in MERN stack (Web Development)
+- 🏃🏼‍➡️ I’m looking to collaborate on some projects based on Web Development
 - 📫 How to reach me ...+91 940544701
 
 <!---
